@@ -21,7 +21,7 @@ https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalpremier.json
 https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", UNIVERSAL CRIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27X3Yt6/ucrime.png" tvg-group="CINE Y SERIES", NIVERSAL CRIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/universalcrime.json
-https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd
