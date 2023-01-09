@@ -4,5 +4,4 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/vtvpuy.json
-https://api54.tvgratis.live/streams/1246/manifest.mpd
-
+https://dtvott-abc.akamaized.net/dash_live_1178/manifest.mpd
